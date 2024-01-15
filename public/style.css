@@ -1,0 +1,82 @@
+body{
+    background-color: rgb(191, 193, 190);
+}
+#noxt{
+    font-size: 120px;
+    font-family: 'Archivo', sans-serif;
+    color: red;
+}
+
+/* seperate NOXT from NOXT blocks */
+span, #noxt{
+    padding-right: 40px;
+}
+#headerImg{
+    padding-bottom: 65px;
+}
+/* raise NOXT blocks to be even with NOXT text */
+#headerNoxt{
+    padding-bottom: 65px;
+}
+h1{
+    color: red;
+    /* font-family: fantasy; */
+    font-family: 'Archivo', sans-serif;
+}
+#h2-text{
+    color:blueviolet;
+    font-family: 'MV Boli','Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+}
+.the-colors{
+    color:coral
+}
+a{
+    color:black;
+    line-height: 50px;
+    font-size: larger;
+}
+#A{
+    height:50px;
+    width:50px;
+    color:#78ac96 
+    /* aliceblue */
+}
+#B{
+    height:50px;
+    width:50px;
+    color:#f8da24
+}
+#C{
+    height:50px;
+    width:50px;
+    color:#8d81bf 
+}
+#D{
+    height:50px;
+    width:50px;
+    color:#d05a28
+}
+/* #pictureBoxContainer */
+
+#pictureBoxDiv{
+    
+    margin-top:30px;
+    margin-bottom:20px;
+    height: 100px;
+    width:600px;
+    background-color: rgb(219, 181, 181);
+}
+#clearBTN{
+    color:#f8da24;
+    background-color:#8d81bf;
+}
+input, #keydownEvent{
+    height: 45px;
+    width:100%;
+    border-style: dotted;
+    border-radius: 10px;
+}
+
+
+

@@ -1,0 +1,24 @@
+{
+  "name": "noxtfordeployment",
+  "version": "1.0.0",
+  "description": "NOXT text to code",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "'factory",
+    "records'",
+    "'new",
+    "order'",
+    "'a",
+    "certain",
+    "ration'"
+  ],
+  "author": "bjb",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
